@@ -2,7 +2,9 @@
 
 ## Overview 
 
-Semi-Implicit Method for Pressure Linked Equations (SIMPLE) is an iterative solver for the Navier-Stokes equations. This implementation uses finite volume discretization, is steady-state and only supports laminar incompressible flow. I got started on implementing transient behavior and a K-epsilon turbulence model, together with other scalar transport functions almost two years ago, but had no time due to work, so I decided to upload it to GitHub. 
+Semi-Implicit Method for Pressure Linked Equations (SIMPLE) is an iterative solver for the Navier-Stokes equations. This implementation uses finite volume discretization, is steady-state and only supports laminar incompressible flow. I got started on implementing transient behavior and a K-epsilon turbulence model, together with other scalar transport functions almost two years ago, but had no time due to work, so I decided to upload the parts that worked to GitHub. 
+
+I haven't looked at the code carefully: I am sure there are errors, and it's badly formatted. I definitely realized I've learnt a lot over the past few years about coding and modelling. Use it at your own risk! 
 
 ## Description 
 
